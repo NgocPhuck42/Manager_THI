@@ -1,0 +1,15 @@
+E:\NET Framework\Manager\Manager\bin\Debug\Manager.exe.config
+E:\NET Framework\Manager\Manager\bin\Debug\Manager.exe
+E:\NET Framework\Manager\Manager\bin\Debug\Manager.pdb
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmAccountProfile.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmCategory.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmLogin.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmManager.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmProduct.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.exe
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.pdb
